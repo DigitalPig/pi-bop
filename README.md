@@ -11,14 +11,7 @@ A small shared pet for Pi. The cat chases a ball of unraveling yarn, the axolotl
 
 ## Installation
 
-Requires Pi with a runtime that supports `node:sqlite`. This repository is private, so the installing GitHub account must have access and Git must be configured for HTTPS authentication. For example, with GitHub CLI:
-
-```bash
-gh auth login
-gh auth setup-git
-```
-
-Then install the GitHub package globally from your terminal:
+Requires Pi with a runtime that supports `node:sqlite`. Install the GitHub package globally from your terminal:
 
 ```bash
 pi install git:github.com/DigitalPig/pi-bop
